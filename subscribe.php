@@ -77,7 +77,7 @@ $message = <<<EOD
             <p>Thank you for subscribing to our weekly newsletter. Expect fun and easy DIY every week on Mondays!</p>
 
             <h2>About Us</h2>
-            <p>Hello, I’m [Your Name], a mother who loves crafting and being goofy with my 5-year-old son, [Son's Name]. My son is my inspiration, and through him, I’ve rediscovered the joy of creativity and imagination. Together, we’ve spent countless hours laughing, crafting, and exploring new ideas, which led to the creation of Roll the Toilet Paper.</p>
+            <p>Hello, I'm Michelle, a mother who loves crafting and being goofy with my 5-year-old son. My son is my inspiration, and through him, I've rediscovered the joy of creativity and imagination. Together, we’ve spent countless hours laughing, crafting, and exploring new ideas, which led to the creation of Roll the Toilet Paper.</p>
 
             <p>It all started with a simple roll of toilet paper and a desire to make people smile. My son and I began making funny characters out of toilet paper rolls, sparking a world of creativity that we couldn’t keep to ourselves. From there, Roll has grown into a lovable character and a creative force, inspiring our followers to embrace their silly side while exploring their creative potential.</p>
 
